@@ -1,5 +1,11 @@
 node_modules
-.DS_Store
 dist
 dist-ssr
 *.local
+
+# macOS artifacts
+.DS_Store
+
+# Editor artifacts
+.idea
+*.iml
